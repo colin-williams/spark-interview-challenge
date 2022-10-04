@@ -7,7 +7,7 @@
 Development used ```JDK 11``` and ```Scala 2.12``` and ```Sbt 1.4.9``` and ```Spark 3.1.x```
 
 ### Tests
-* tests can be run from the root directory using ```sbt test```  invoked by intelliJ idea. 
+* tests can be run from the root directory using ```sbt test```  OR invoked by intelliJ idea. 
 
 
 * To invoke tests in intelliJ IDEA:
